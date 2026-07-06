@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Amr Waleed
 
-<!--
-**amrrwaleed/amrrwaleed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
 
-Here are some ideas to get you started:
+- Computer Engineering Student
+- Passionate about Artificial Intelligence and Machine Learning
+- Currently learning Machine Learning and Deep Learning
+- Interested in Data Science and Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+### Programming Languages
+- Python
+- C++
+- SQL
+
+### Data Analysis
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Power BI
+
+### Machine Learning
+- Scikit-learn
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+
+---
+
+## 📂 Featured Projects
+
+- Olist Data Analysis Dashboard
+- House Price Prediction
+- Customer Churn Prediction
+- AI Face Detection
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn:
+  https://www.linkedin.com/in/amr-waleed
+
+- GitHub:
+  https://github.com/amrrwaleed
